@@ -6,6 +6,11 @@ Voici comment utiliser l'application qui génère le calendrier des matchs.
 	Il se peut que le nom affiché du fichier soit simplement "Generateur",
 	ça dépend de certains paramètres sur votre ordinateur.
 
+	Sur Windows, si jamais une fenêtre apparaît affichant un message "Windows a protégé votre ordinateur",
+	c'est que l'antivirus Windows par défaut (Windows Defender) a bloqué le programme. Pour lancer quand même le programme,
+	cliquez sur "Informations complémentaires", puis sur le bouton "Exécuter quand même".
+	Si c'est un autre antivirus qui bloque le lancement du programme, on peut généralement lancer quand même le programme, de façon similaire.
+
 2. Une fenêtre noire devrait apparaître. Suivez les instructions sur cette fenêtre jusqu'à ce qu'elle se ferme.
 
 3. Une fois l'application fermée, vous pouvez trouver vos tableaux dans le dossier "Tableau".
