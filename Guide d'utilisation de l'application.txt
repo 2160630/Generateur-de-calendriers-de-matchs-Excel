@@ -1,0 +1,15 @@
+Voici comment utiliser l'application qui génère le calendrier des matchs.
+(c'est tout simple)
+
+1. Cliquer sur le fichier "Generateur.cmd".
+	Normalement, ce fichier est dans le même dossier que ce texte.
+	Il se peut que le nom affiché du fichier soit simplement "Generateur",
+	ça dépend de certains paramètres sur votre ordinateur.
+
+2. Une fenêtre noire devrait apparaître. Suivez les instructions sur cette fenêtre jusqu'à ce qu'elle se ferme.
+
+3. Une fois l'application fermée, vous pouvez trouver vos tableaux dans le dossier "Tableau".
+
+
+IMPORTANT: Si vous créez un tableau qui a le même nom qu'un tableau existant,
+	   le nouveau tableau écrasera l'ancien.

@@ -1,0 +1,1 @@
+java -jar "bin/Generation_de_calendriers.jar"
