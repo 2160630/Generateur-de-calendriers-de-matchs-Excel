@@ -1,5 +1,6 @@
 # Generateur de calendriers de matchs Excel
-Auteur: Gabriel Dumont-Hétu
+Par
+Gabriel Dumont-Hétu
 
 Voici un petit petit programme servant à générer des calendriers de matchs sous forme de tableau Excel.
 Ce programme a été testé sur Windows 10. Il n'y a aucune garantie que le programme fonctionne sur Macintosh.
